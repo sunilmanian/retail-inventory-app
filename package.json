@@ -1,0 +1,21 @@
+{
+  "name": "retail-inventory-app",
+  "version": "1.0.0",
+  "description": "Full-stack inventory system using:\r - React + Redux + Tailwind + TypeScript (Frontend)\r - Node.js + Express + PostgreSQL + GraphQL (Backend)\r - Docker + Kubernetes + Jenkins + GitHub Actions (DevOps)\r - SonarQube + ELK Stack + Terraform + Ansible (Monitoring & Infra)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.33.1",
+    "@typescript-eslint/parser": "^8.33.1",
+    "eslint": "^9.28.0",
+    "prettier": "^3.5.3"
+  }
+}
